@@ -1,0 +1,22 @@
+.container { 
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+color: aliceblue;
+}
+div
+ {
+    display: inline;
+    background-color: black;
+ }
+
+.watch {
+    color: white;
+  }
+  
+  .flix {
+    color: red;
+  }
+  
